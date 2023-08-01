@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <nav>
         
-        <Link to="/"> Home Page</Link> 
+        <Link to="/"> <img src="src/assets/home-icon.png" alt="home-icon" /></Link> 
     
         </nav>
   )
